@@ -5,5 +5,3 @@ a.out
 *.swp
 *.dSYM
 *.a
-server
-client
