@@ -1,0 +1,9 @@
+*.o
+*/*.o
+.DS_Store
+a.out
+*.swp
+*.dSYM
+*.a
+server
+client
